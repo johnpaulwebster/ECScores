@@ -7,4 +7,4 @@ Information on interpreting the output file.
 
 ![csv_output](https://github.com/user-attachments/assets/fcdb14a3-697a-4acb-800d-83d0a3c1f610)
 
-For questions, comments, or concerns, please conatct John-Paul Webster at john-paul.webster@yale.edu
+For questions, comments, or concerns, please contact John-Paul Webster at john-paul.webster@yale.edu

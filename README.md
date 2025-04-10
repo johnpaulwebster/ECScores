@@ -1,3 +1,5 @@
+All code is freely available upon request, please reach out to john-paul.webster@yale.edu!
+
 # ECScore-CSVSetup
 Information on how to set up your CSV structure for calculating scores.
 

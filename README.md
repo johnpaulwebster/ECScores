@@ -1,5 +1,5 @@
 # ECScore
-Code is freely avaiable for use in both Jupyter Notebook format (ecscore_total.ipynb) with additional fingerprinting methods and ECScore (with RDKit FPs) in python (ecscore.py)!
+Code is freely avaiable for use in Jupyter Notebook format (ecscore_total.ipynb) with additional fingerprinting methods!
 
 CSV-Setup and Data Interpretation from Website or Jupyter Notebook
 

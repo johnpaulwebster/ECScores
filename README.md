@@ -11,22 +11,23 @@ Information on interpreting the output file.
 
 ![csv_output](https://github.com/user-attachments/assets/fcdb14a3-697a-4acb-800d-83d0a3c1f610)
 
-**Stand-alone python script**
+**Stand-Alone Python Script**
 
 **Requirements**
+
+-Python >= 3.8
 
 -RDKit
 
 **Example usage**
-
+```python
 from ecscores import ecscore
 
 initial_smile "CCO"
-
 final_smile = "CCCO"
 
 score = ecscore(initial_smile, final_smile)
-
 print(score) #e.g. 0.6
+```
 
 **For questions, comments, or concerns, please contact John-Paul Webster at john-paul.webster@yale.edu**

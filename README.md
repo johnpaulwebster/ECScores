@@ -13,11 +13,11 @@ Information on interpreting the output file.
 
 **Stand-alone python script**
 
-Requirements
+#Requirements#
 
 -RDKit
 
-Example usage
+#Example usage#
 
 from ecscores import ecscore
 
@@ -29,4 +29,4 @@ score = ecscore(initial_smile, final_smile)
 
 print(score) #e.g. 0.6
 
-For questions, comments, or concerns, please contact John-Paul Webster at john-paul.webster@yale.edu
+**For questions, comments, or concerns, please contact John-Paul Webster at john-paul.webster@yale.edu**

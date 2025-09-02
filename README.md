@@ -13,11 +13,11 @@ Information on interpreting the output file.
 
 **Stand-alone python script**
 
-#Requirements#
+**Requirements**
 
 -RDKit
 
-#Example usage#
+**Example usage**
 
 from ecscores import ecscore
 
